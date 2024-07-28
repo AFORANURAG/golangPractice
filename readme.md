@@ -1,0 +1,1 @@
+You can find the rabbitmq code samples from https://www.rabbitmq.com/tutorials/tutorial-one-go
